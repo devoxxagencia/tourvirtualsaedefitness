@@ -1,0 +1,55 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sa&de Fitness - Tour Virtual 360º
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = WhatsApp
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = WhatsApp
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = Localização
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = Localização
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = Instagram
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = Instagram
+
+## Media
+
+### Title
+panorama_4E109FD2_4488_A9FD_41D0_CF4BC7747A1D.label = IMG_20220528_074936_00_merged
+panorama_4E10B1AA_4488_99AD_41B7_F3DDE3032136.label = IMG_20220528_075201_00_merged
+panorama_4E164629_4488_BAAF_41B5_6EDE2EEDB1D0.label = IMG_20220528_072214_00_merged
+panorama_4E172495_448F_7E67_41B4_2EF3FCC347ED.label = IMG_20220528_072809_00_merged
+panorama_4E17452C_4488_9EA5_41C3_14E0C3FEE3AA.label = IMG_20220528_072649_00_merged
+panorama_4E174F17_448F_6A63_41CD_1D744AF12D3D.label = IMG_20220528_074237_00_merged
+panorama_4E1766E7_448F_9BA3_41AC_6E829E662EC6.label = IMG_20220528_073931_00_merged
+panorama_4E177ECF_448F_6BE3_41C5_6357EFF2515A.label = IMG_20220528_074433_00_merged
+panorama_4E17B316_448F_9A65_41A2_8ADA15165ED6.label = IMG_20220528_073019_00_merged
+panorama_4E17BCCF_448F_AFE4_41CE_D45675A0BDAE.label = IMG_20220528_074054_00_merged
+panorama_4E17E074_448F_F6A5_41BB_E850EE1977D5.label = IMG_20220528_073521_00_merged
+panorama_4E17E810_448F_B67D_41B1_72074F660ECA.label = IMG_20220528_073247_00_merged
+panorama_4F548C08_4488_AE6C_41AF_FC54B0F58F84.label = Aeréa - Saede Fitnes
+video_56E05018_4588_B66D_41B1_CD61187FD040.label = WhatsApp Video 2022-06-08 at 15.41.13
+
+## Popup
+
+### Body
+htmlText_515E5E99_447B_6A6F_413F_60458C3EB79A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;">A Sa&amp;de Fitness fica localizada bem próximo ao Supermercado Tático na Av. Igualdade no Setor Garavelo. </SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_56C4A84B_4597_76E3_41B0_E80A7CC08023.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Action
+
+### URL
+LinkBehaviour_5050844D_44B9_BEE7_41BD_825B676FC60D.source = https://devoxxagencia.com.br/
+LinkBehaviour_521BF35C_449B_BAE5_41B6_7466EDC8249E.source = https://www.instagram.com/saedeacademia/
+LinkBehaviour_52333BE2_4498_A9DD_41C2_36DD67F62AA1.source = https://www.instagram.com/saedeacademia/
+LinkBehaviour_525FBBE5_44B8_A9A7_41B4_0E7573F3F90A.source = https://api.whatsapp.com/send?phone=5562985382107&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_52DC36BD_44B9_BBA4_41C1_D0DDCE0D72E0.source = https://www.instagram.com/saedeacademia/
+LinkBehaviour_53639ED5_44B8_EBE7_4196_8FF31C830B39.source = https://www.google.com/maps/dir/-16.7838646,-49.355163/saede+academia/@-16.7746205,-49.3547703,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef825ecfa5ab3:0xe20f81fe8d6e2fff!2m2!1d-49.3359877!2d-16.7762748
+LinkBehaviour_5D921524_4489_9EA5_41D1_21B8B86F31B8.source = https://api.whatsapp.com/send?phone=5562985382107&text=Ol%C3%A1%2C%20estava%20assistindo%20o%20seu%20Tour%20Virtual%2C%20gostei%20da%20academia%20e%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_5D923526_4489_9EA5_41BD_2FD4BEEE38CB.source = https://www.instagram.com/saedeacademia/
+LinkBehaviour_5D939527_4489_9EA3_41D0_94261D26A73F.source = https://www.google.com/maps/dir/-16.7838646,-49.355163/saede+academia/@-16.7746205,-49.3547703,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef825ecfa5ab3:0xe20f81fe8d6e2fff!2m2!1d-49.3359877!2d-16.7762748
